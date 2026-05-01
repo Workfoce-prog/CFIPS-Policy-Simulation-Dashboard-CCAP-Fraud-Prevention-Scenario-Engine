@@ -1,0 +1,221 @@
+provider_id,provider_name,region,provider_type,risk_score,network_risk_score,payment_amount_current,risk_score_prev
+CCAP-00001,Provider 001,Metro,Center,0.16,0.119,3000.0,0.172
+CCAP-00002,Provider 002,South,Family Child Care,0.443,0.284,24806.83,0.322
+CCAP-00003,Provider 003,North,Family Child Care,0.311,0.26,66677.99,0.743
+CCAP-00004,Provider 004,Metro,Family Child Care,0.123,0.226,61439.09,0.332
+CCAP-00005,Provider 005,Metro,Center,0.527,0.271,78567.63,0.657
+CCAP-00006,Provider 006,Central,Center,0.565,0.103,68477.68,0.235
+CCAP-00007,Provider 007,West,Family Child Care,0.174,0.056,21460.28,0.72
+CCAP-00008,Provider 008,Metro,Legal Nonlicensed,0.403,0.561,58558.31,0.36
+CCAP-00009,Provider 009,Central,Family Child Care,0.112,0.19,37475.65,0.515
+CCAP-00010,Provider 010,Metro,Certified Center,0.268,0.274,45340.02,0.275
+CCAP-00011,Provider 011,Tribal/Partner,Center,0.789,0.256,42896.68,0.195
+CCAP-00012,Provider 012,West,Center,0.312,0.063,34532.89,0.189
+CCAP-00013,Provider 013,South,Certified Center,0.081,0.203,33944.8,0.216
+CCAP-00014,Provider 014,Central,Family Child Care,0.251,0.205,54399.76,0.434
+CCAP-00015,Provider 015,South,Family Child Care,0.621,0.126,33290.97,0.444
+CCAP-00016,Provider 016,West,Center,0.109,0.406,45450.76,0.539
+CCAP-00017,Provider 017,North,Center,0.179,0.116,49762.49,0.33
+CCAP-00018,Provider 018,Metro,Family Child Care,0.188,0.047,33467.55,0.145
+CCAP-00019,Provider 019,Metro,Center,0.119,0.43,37434.03,0.485
+CCAP-00020,Provider 020,Metro,Center,0.152,0.061,60416.68,0.128
+CCAP-00021,Provider 021,South,Family Child Care,0.812,0.108,14801.66,0.711
+CCAP-00022,Provider 022,North,Legal Nonlicensed,0.113,0.192,31237.43,0.582
+CCAP-00023,Provider 023,Central,Legal Nonlicensed,0.429,0.237,20583.63,0.451
+CCAP-00024,Provider 024,Metro,Family Child Care,0.243,0.341,45472.57,0.127
+CCAP-00025,Provider 025,North,Center,0.225,0.231,85261.68,0.379
+CCAP-00026,Provider 026,Metro,Center,0.378,0.163,22339.15,0.157
+CCAP-00027,Provider 027,Metro,Family Child Care,0.31,0.053,61627.61,0.736
+CCAP-00028,Provider 028,South,Center,0.33,0.446,64726.06,0.342
+CCAP-00029,Provider 029,North,Center,0.421,0.248,7793.6,0.51
+CCAP-00030,Provider 030,Metro,Center,0.411,0.073,20525.67,0.131
+CCAP-00031,Provider 031,Metro,Legal Nonlicensed,0.638,0.112,41661.52,0.35
+CCAP-00032,Provider 032,West,Center,0.49,0.044,26199.19,0.165
+CCAP-00033,Provider 033,Central,Center,0.819,0.167,46450.33,0.453
+CCAP-00034,Provider 034,South,Certified Center,0.179,0.325,63859.55,0.737
+CCAP-00035,Provider 035,Metro,Family Child Care,0.314,0.189,53272.19,0.355
+CCAP-00036,Provider 036,Tribal/Partner,Family Child Care,0.314,0.173,38851.54,0.546
+CCAP-00037,Provider 037,South,Center,0.361,0.137,51077.6,0.112
+CCAP-00038,Provider 038,North,Legal Nonlicensed,0.186,0.069,47629.09,0.225
+CCAP-00039,Provider 039,West,Legal Nonlicensed,0.46,0.193,21723.01,0.138
+CCAP-00040,Provider 040,Metro,Family Child Care,0.485,0.06,32367.05,0.176
+CCAP-00041,Provider 041,Central,Legal Nonlicensed,0.289,0.14,49485.26,0.164
+CCAP-00042,Provider 042,Metro,Family Child Care,0.413,0.039,40904.29,0.502
+CCAP-00043,Provider 043,Metro,Center,0.278,0.011,47159.56,0.374
+CCAP-00044,Provider 044,Central,Family Child Care,0.124,0.051,56241.33,0.455
+CCAP-00045,Provider 045,Metro,Family Child Care,0.218,0.358,3294.2,0.478
+CCAP-00046,Provider 046,South,Center,0.198,0.331,65707.3,0.285
+CCAP-00047,Provider 047,South,Family Child Care,0.532,0.065,11476.87,0.647
+CCAP-00048,Provider 048,Metro,Center,0.326,0.17,42186.43,0.414
+CCAP-00049,Provider 049,Central,Certified Center,0.214,0.027,44449.56,0.662
+CCAP-00050,Provider 050,South,Family Child Care,0.178,0.27,39659.02,0.604
+CCAP-00051,Provider 051,South,Center,0.092,0.325,45003.6,0.542
+CCAP-00052,Provider 052,Metro,Legal Nonlicensed,0.68,0.602,32992.91,0.404
+CCAP-00053,Provider 053,North,Legal Nonlicensed,0.304,0.202,30300.59,0.633
+CCAP-00054,Provider 054,South,Family Child Care,0.259,0.185,40311.02,0.528
+CCAP-00055,Provider 055,North,Center,0.463,0.426,44741.23,0.572
+CCAP-00056,Provider 056,Central,Family Child Care,0.495,0.038,30956.88,0.094
+CCAP-00057,Provider 057,South,Center,0.257,0.424,47064.11,0.328
+CCAP-00058,Provider 058,North,Center,0.644,0.064,28092.06,0.51
+CCAP-00059,Provider 059,Metro,Center,0.31,0.092,32509.63,0.1
+CCAP-00060,Provider 060,Central,Center,0.318,0.129,38037.89,0.405
+CCAP-00061,Provider 061,South,Family Child Care,0.275,0.259,49020.63,0.428
+CCAP-00062,Provider 062,Metro,Center,0.216,0.505,36885.79,0.232
+CCAP-00063,Provider 063,South,Center,0.633,0.624,48114.34,0.255
+CCAP-00064,Provider 064,Metro,Family Child Care,0.236,0.277,67631.31,0.56
+CCAP-00065,Provider 065,West,Certified Center,0.314,0.04,34203.5,0.107
+CCAP-00066,Provider 066,Tribal/Partner,Certified Center,0.304,0.053,62648.63,0.057
+CCAP-00067,Provider 067,Metro,Family Child Care,0.302,0.378,20655.28,0.702
+CCAP-00068,Provider 068,Metro,Legal Nonlicensed,0.222,0.138,52160.29,0.548
+CCAP-00069,Provider 069,Central,Family Child Care,0.618,0.467,38713.49,0.44
+CCAP-00070,Provider 070,Metro,Family Child Care,0.295,0.043,75542.31,0.591
+CCAP-00071,Provider 071,South,Center,0.57,0.104,33650.95,0.237
+CCAP-00072,Provider 072,North,Center,0.073,0.053,28462.49,0.529
+CCAP-00073,Provider 073,Central,Certified Center,0.309,0.2,58632.05,0.467
+CCAP-00074,Provider 074,Tribal/Partner,Center,0.575,0.131,48354.33,0.26
+CCAP-00075,Provider 075,West,Family Child Care,0.427,0.081,42982.89,0.254
+CCAP-00076,Provider 076,South,Family Child Care,0.54,0.262,3113.3,0.39
+CCAP-00077,Provider 077,Metro,Center,0.225,0.217,48064.68,0.111
+CCAP-00078,Provider 078,Tribal/Partner,Center,0.673,0.415,40005.13,0.552
+CCAP-00079,Provider 079,Metro,Family Child Care,0.433,0.231,43069.19,0.69
+CCAP-00080,Provider 080,Metro,Family Child Care,0.404,0.217,29217.46,0.685
+CCAP-00081,Provider 081,Metro,Family Child Care,0.372,0.081,62552.32,0.462
+CCAP-00082,Provider 082,Central,Center,0.485,0.083,41419.04,0.198
+CCAP-00083,Provider 083,North,Center,0.294,0.404,37697.16,0.056
+CCAP-00084,Provider 084,Metro,Family Child Care,0.162,0.243,16669.33,0.431
+CCAP-00085,Provider 085,Metro,Center,0.134,0.234,38411.1,0.223
+CCAP-00086,Provider 086,South,Center,0.21,0.283,24058.95,0.252
+CCAP-00087,Provider 087,South,Family Child Care,0.135,0.181,63415.89,0.516
+CCAP-00088,Provider 088,South,Center,0.497,0.522,45494.47,0.136
+CCAP-00089,Provider 089,South,Family Child Care,0.466,0.163,31826.57,0.471
+CCAP-00090,Provider 090,West,Center,0.413,0.401,38582.07,0.572
+CCAP-00091,Provider 091,West,Center,0.469,0.17,64704.32,0.074
+CCAP-00092,Provider 092,Metro,Certified Center,0.168,0.201,43727.1,0.442
+CCAP-00093,Provider 093,Tribal/Partner,Family Child Care,0.24,0.18,41274.23,0.555
+CCAP-00094,Provider 094,Central,Certified Center,0.454,0.18,71191.44,0.353
+CCAP-00095,Provider 095,South,Certified Center,0.366,0.009,47410.66,0.261
+CCAP-00096,Provider 096,Central,Center,0.478,0.226,55954.8,0.16
+CCAP-00097,Provider 097,South,Center,0.302,0.285,35849.35,0.719
+CCAP-00098,Provider 098,West,Family Child Care,0.17,0.157,35380.91,0.335
+CCAP-00099,Provider 099,Metro,Center,0.343,0.315,54973.93,0.187
+CCAP-00100,Provider 100,South,Center,0.137,0.158,40710.01,0.086
+CCAP-00101,Provider 101,West,Certified Center,0.641,0.364,47213.43,0.214
+CCAP-00102,Provider 102,Metro,Certified Center,0.089,0.152,40432.21,0.63
+CCAP-00103,Provider 103,South,Center,0.524,0.01,41470.81,0.18
+CCAP-00104,Provider 104,North,Family Child Care,0.406,0.146,39335.11,0.52
+CCAP-00105,Provider 105,Central,Family Child Care,0.646,0.526,20427.78,0.692
+CCAP-00106,Provider 106,Metro,Family Child Care,0.227,0.607,62333.08,0.319
+CCAP-00107,Provider 107,South,Center,0.242,0.406,31878.51,0.421
+CCAP-00108,Provider 108,West,Family Child Care,0.521,0.135,22322.01,0.159
+CCAP-00109,Provider 109,South,Certified Center,0.313,0.367,42754.71,0.21
+CCAP-00110,Provider 110,Metro,Certified Center,0.369,0.187,30964.95,0.321
+CCAP-00111,Provider 111,Central,Center,0.459,0.234,61643.13,0.528
+CCAP-00112,Provider 112,Metro,Certified Center,0.54,0.092,51714.12,0.39
+CCAP-00113,Provider 113,Central,Center,0.32,0.14,32075.32,0.645
+CCAP-00114,Provider 114,Metro,Family Child Care,0.15,0.043,27307.59,0.573
+CCAP-00115,Provider 115,Metro,Family Child Care,0.568,0.108,51760.32,0.448
+CCAP-00116,Provider 116,Metro,Center,0.514,0.141,30330.39,0.354
+CCAP-00117,Provider 117,Metro,Certified Center,0.537,0.031,19546.05,0.441
+CCAP-00118,Provider 118,South,Family Child Care,0.191,0.57,14886.04,0.354
+CCAP-00119,Provider 119,Metro,Legal Nonlicensed,0.165,0.442,52769.67,0.377
+CCAP-00120,Provider 120,South,Legal Nonlicensed,0.182,0.083,16486.81,0.263
+CCAP-00121,Provider 121,Central,Certified Center,0.796,0.206,22580.33,0.17
+CCAP-00122,Provider 122,West,Certified Center,0.772,0.194,52480.85,0.725
+CCAP-00123,Provider 123,Metro,Center,0.285,0.071,54309.37,0.083
+CCAP-00124,Provider 124,Metro,Family Child Care,0.235,0.168,22716.11,0.085
+CCAP-00125,Provider 125,Metro,Family Child Care,0.243,0.045,31652.6,0.127
+CCAP-00126,Provider 126,Metro,Family Child Care,0.33,0.273,57014.83,0.33
+CCAP-00127,Provider 127,Central,Family Child Care,0.539,0.212,44785.36,0.407
+CCAP-00128,Provider 128,West,Center,0.631,0.017,34010.58,0.264
+CCAP-00129,Provider 129,North,Center,0.315,0.253,43292.93,0.571
+CCAP-00130,Provider 130,South,Family Child Care,0.418,0.051,48093.08,0.302
+CCAP-00131,Provider 131,Tribal/Partner,Center,0.233,0.185,23798.72,0.136
+CCAP-00132,Provider 132,Central,Family Child Care,0.826,0.063,25149.6,0.35
+CCAP-00133,Provider 133,Central,Center,0.313,0.359,59231.19,0.361
+CCAP-00134,Provider 134,West,Center,0.267,0.275,69488.97,0.406
+CCAP-00135,Provider 135,Metro,Center,0.675,0.53,55917.29,0.258
+CCAP-00136,Provider 136,Central,Family Child Care,0.511,0.192,38425.84,0.338
+CCAP-00137,Provider 137,Central,Center,0.89,0.138,30569.32,0.293
+CCAP-00138,Provider 138,West,Family Child Care,0.404,0.098,42389.46,0.177
+CCAP-00139,Provider 139,Metro,Center,0.19,0.499,58281.64,0.3
+CCAP-00140,Provider 140,Central,Family Child Care,0.306,0.276,61619.94,0.501
+CCAP-00141,Provider 141,South,Family Child Care,0.39,0.587,41325.36,0.733
+CCAP-00142,Provider 142,North,Center,0.1,0.183,47901.41,0.395
+CCAP-00143,Provider 143,Metro,Family Child Care,0.216,0.247,18399.99,0.391
+CCAP-00144,Provider 144,Metro,Family Child Care,0.474,0.171,39322.0,0.245
+CCAP-00145,Provider 145,Tribal/Partner,Legal Nonlicensed,0.414,0.23,64868.78,0.33
+CCAP-00146,Provider 146,Metro,Center,0.381,0.226,39253.76,0.678
+CCAP-00147,Provider 147,Metro,Certified Center,0.174,0.403,48809.61,0.189
+CCAP-00148,Provider 148,Metro,Center,0.679,0.33,55855.28,0.376
+CCAP-00149,Provider 149,Metro,Legal Nonlicensed,0.602,0.132,54589.67,0.711
+CCAP-00150,Provider 150,Metro,Center,0.018,0.277,43070.98,0.543
+CCAP-00151,Provider 151,West,Center,0.101,0.136,32528.11,0.477
+CCAP-00152,Provider 152,Metro,Center,0.56,0.127,6912.31,0.432
+CCAP-00153,Provider 153,South,Certified Center,0.092,0.014,22958.61,0.061
+CCAP-00154,Provider 154,Metro,Family Child Care,0.646,0.384,36559.68,0.441
+CCAP-00155,Provider 155,Central,Legal Nonlicensed,0.702,0.221,52946.58,0.296
+CCAP-00156,Provider 156,Metro,Center,0.398,0.537,44770.25,0.155
+CCAP-00157,Provider 157,Central,Certified Center,0.641,0.504,59785.91,0.335
+CCAP-00158,Provider 158,North,Center,0.597,0.079,22023.2,0.39
+CCAP-00159,Provider 159,Metro,Center,0.693,0.089,13085.81,0.553
+CCAP-00160,Provider 160,Central,Family Child Care,0.345,0.14,51101.35,0.471
+CCAP-00161,Provider 161,South,Center,0.524,0.106,69949.2,0.221
+CCAP-00162,Provider 162,North,Family Child Care,0.402,0.192,44654.41,0.47
+CCAP-00163,Provider 163,Metro,Family Child Care,0.449,0.117,32755.83,0.393
+CCAP-00164,Provider 164,Central,Center,0.283,0.244,55657.8,0.338
+CCAP-00165,Provider 165,Metro,Center,0.446,0.123,63997.6,0.482
+CCAP-00166,Provider 166,Metro,Center,0.225,0.308,22118.7,0.364
+CCAP-00167,Provider 167,Tribal/Partner,Center,0.416,0.211,36039.74,0.511
+CCAP-00168,Provider 168,Metro,Legal Nonlicensed,0.642,0.156,57622.69,0.698
+CCAP-00169,Provider 169,Metro,Family Child Care,0.217,0.015,45461.81,0.438
+CCAP-00170,Provider 170,North,Center,0.238,0.392,28808.07,0.496
+CCAP-00171,Provider 171,Metro,Family Child Care,0.581,0.136,36779.49,0.246
+CCAP-00172,Provider 172,Metro,Center,0.367,0.133,27429.95,0.283
+CCAP-00173,Provider 173,South,Family Child Care,0.664,0.11,18227.83,0.135
+CCAP-00174,Provider 174,Tribal/Partner,Center,0.447,0.058,46539.95,0.478
+CCAP-00175,Provider 175,Tribal/Partner,Family Child Care,0.069,0.087,20867.59,0.258
+CCAP-00176,Provider 176,Metro,Family Child Care,0.359,0.194,39604.33,0.207
+CCAP-00177,Provider 177,West,Center,0.532,0.115,26574.51,0.715
+CCAP-00178,Provider 178,Metro,Certified Center,0.619,0.031,48367.81,0.293
+CCAP-00179,Provider 179,West,Family Child Care,0.156,0.173,35732.26,0.229
+CCAP-00180,Provider 180,Metro,Family Child Care,0.224,0.229,37268.35,0.244
+CCAP-00181,Provider 181,Central,Center,0.571,0.482,16770.6,0.498
+CCAP-00182,Provider 182,Central,Center,0.22,0.234,45038.76,0.409
+CCAP-00183,Provider 183,West,Center,0.319,0.259,34291.19,0.449
+CCAP-00184,Provider 184,Tribal/Partner,Center,0.269,0.208,28516.35,0.273
+CCAP-00185,Provider 185,Metro,Center,0.278,0.471,47875.7,0.715
+CCAP-00186,Provider 186,South,Family Child Care,0.243,0.599,55620.11,0.277
+CCAP-00187,Provider 187,Central,Center,0.483,0.078,67982.59,0.103
+CCAP-00188,Provider 188,Metro,Family Child Care,0.078,0.103,44216.71,0.47
+CCAP-00189,Provider 189,Central,Center,0.424,0.696,44848.11,0.694
+CCAP-00190,Provider 190,Metro,Family Child Care,0.369,0.323,26215.79,0.182
+CCAP-00191,Provider 191,Metro,Center,0.444,0.26,30438.64,0.158
+CCAP-00192,Provider 192,South,Certified Center,0.366,0.628,59731.53,0.062
+CCAP-00193,Provider 193,North,Certified Center,0.182,0.242,34104.12,0.675
+CCAP-00194,Provider 194,South,Family Child Care,0.716,0.364,70133.53,0.424
+CCAP-00195,Provider 195,Central,Center,0.435,0.219,21659.96,0.58
+CCAP-00196,Provider 196,South,Center,0.648,0.205,38972.53,0.745
+CCAP-00197,Provider 197,West,Family Child Care,0.559,0.417,38484.88,0.602
+CCAP-00198,Provider 198,Metro,Family Child Care,0.009,0.527,30875.84,0.495
+CCAP-00199,Provider 199,Metro,Center,0.224,0.069,36739.16,0.25
+CCAP-00200,Provider 200,Metro,Family Child Care,0.329,0.299,38580.95,0.107
+CCAP-00201,Provider 201,Central,Center,0.525,0.159,44365.95,0.27
+CCAP-00202,Provider 202,Central,Family Child Care,0.141,0.1,40292.22,0.074
+CCAP-00203,Provider 203,Metro,Family Child Care,0.407,0.197,58228.14,0.643
+CCAP-00204,Provider 204,Central,Certified Center,0.18,0.085,81446.2,0.577
+CCAP-00205,Provider 205,Central,Center,0.182,0.178,53618.74,0.523
+CCAP-00206,Provider 206,Central,Center,0.436,0.415,48124.62,0.449
+CCAP-00207,Provider 207,Metro,Center,0.241,0.078,26010.32,0.486
+CCAP-00208,Provider 208,Metro,Center,0.226,0.023,33124.32,0.389
+CCAP-00209,Provider 209,West,Legal Nonlicensed,0.483,0.024,14750.49,0.098
+CCAP-00210,Provider 210,West,Certified Center,0.395,0.084,49591.94,0.741
+CCAP-00211,Provider 211,Metro,Family Child Care,0.164,0.132,18252.92,0.182
+CCAP-00212,Provider 212,South,Center,0.307,0.631,52788.25,0.081
+CCAP-00213,Provider 213,Metro,Center,0.524,0.165,29846.45,0.411
+CCAP-00214,Provider 214,North,Legal Nonlicensed,0.673,0.104,47670.88,0.133
+CCAP-00215,Provider 215,Metro,Center,0.197,0.053,50270.34,0.315
+CCAP-00216,Provider 216,Metro,Center,0.256,0.14,11830.9,0.632
+CCAP-00217,Provider 217,Metro,Family Child Care,0.278,0.319,29276.43,0.343
+CCAP-00218,Provider 218,West,Center,0.493,0.039,47715.55,0.224
+CCAP-00219,Provider 219,South,Center,0.245,0.078,49646.76,0.416
+CCAP-00220,Provider 220,Metro,Center,0.298,0.18,54777.83,0.179
