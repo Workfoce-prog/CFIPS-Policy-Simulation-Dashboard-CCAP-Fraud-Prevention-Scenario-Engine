@@ -132,12 +132,32 @@ with tabs[1]:
 with tabs[2]:
     st.header("Audit Queue")
     cols = ["provider_id","provider_name","region","provider_type","risk_score","network_risk_score","sim_band","sim_decision","payment_amount_current","expected_fraud_probability","expected_total_savings"]
-    st.dataframe(audited[cols], use_container_width=True, height=460)
+    available_cols = [c for c in cols if c in audited.columns]
+
+if audited.empty:
+    st.info("No providers selected for audit under the current policy scenario.")
+else:
+    st.dataframe(audited[available_cols], use_container_width=True, height=460)
 
 with tabs[3]:
     st.header("Provider-Level Simulation Results")
-    cols = ["provider_id","provider_name","region","provider_type","risk_score","network_risk_score","sim_band","sim_decision","selected_for_audit","payment_amount_current","expected_fraud_probability","expected_improper_payment","expected_total_savings","false_positive_flag"]
-    st.dataframe(res.sort_values(["risk_score","network_risk_score"], ascending=False)[cols], use_container_width=True, height=520)
+
+    cols = ["provider_id","provider_name","region","provider_type",
+            "risk_score","network_risk_score","sim_band","sim_decision",
+            "selected_for_audit","payment_amount_current",
+            "expected_fraud_probability","expected_improper_payment",
+            "expected_total_savings","false_positive_flag"]
+
+    available_cols = [c for c in cols if c in res.columns]
+
+    if res.empty:
+        st.info("No provider results available.")
+    else:
+        st.dataframe(
+            res.sort_values(["risk_score","network_risk_score"], ascending=False)[available_cols],
+            use_container_width=True,
+            height=520
+        )
     st.download_button("Download simulation results CSV", res.to_csv(index=False).encode("utf-8"), "cfips_policy_simulation_results.csv", "text/csv")
 
 with tabs[4]:
